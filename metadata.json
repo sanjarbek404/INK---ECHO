@@ -1,0 +1,6 @@
+{
+  "name": "Ink & Image",
+  "description": "A creative writing interface that ghostwrites stories from your images using Gemini AI and narrates them with expressive voices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
